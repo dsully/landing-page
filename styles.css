@@ -80,13 +80,16 @@ h1 {
   background-color: #333;
 }
 .instagram {
-  background: #d6249f;
+  background: #833ab4;
 }
 .bluesky {
   background-color: #1da1f2;
 }
 .mastodon {
   background-color: #6364ff;
+}
+.strava {
+  background-color: #fc4c02;
 }
 
 @media (max-width: 600px) {
